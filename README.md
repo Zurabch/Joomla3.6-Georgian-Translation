@@ -1,0 +1,1 @@
+# Joomla3.6-Georgian-Translation
