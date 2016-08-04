@@ -1,1 +1,1 @@
-# Joomla3.6-Georgian-Translation
+Georgian language full package for Joomla 3.6
